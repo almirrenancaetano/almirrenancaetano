@@ -5,7 +5,7 @@
   <br>
   ☕ Apaixonado por <strong>desenvolvimento backend com Java</strong>  
   <br>
-  🚀 Em constante aprendizado — atualmente estudando <strong>Java | Spring Boot | MySQL</strong>
+  🚀 Em constante aprendizado — atualmente estudando <strong>Java | Spring Boot | PostgreSQL</strong>
 </p>
 
 ---
