@@ -15,7 +15,7 @@
 - 🎯 Buscando minha primeira oportunidade na área de **desenvolvimento backend**  
 - 💡 Experiência com **lógica de programação, POO e controle de versões (Git)**  
 - 🔍 Foco em **crescimento constante, organização e boas práticas de código**  
-- 🧠 Estudando **Spring Boot, API REST e Banco de Dados MySQL**
+- 🧠 Estudando **Spring Boot, API REST e Banco de Dados PostgreSQL**
 
 ---
 
