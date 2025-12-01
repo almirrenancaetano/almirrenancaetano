@@ -12,35 +12,41 @@
 
 ### 🧩 Sobre mim
 
-- 🎯 Buscando minha primeira oportunidade na área de **desenvolvimento backend**  
-- 💡 Experiência com **lógica de programação, POO e controle de versões (Git)**  
-- 🔍 Foco em **crescimento constante, organização e boas práticas de código**  
-- 🧠 Estudando **Spring Boot, API REST e Banco de Dados PostgreSQL**
+Olá! 👋 Sou um desenvolvedor em formação, apaixonado por tecnologia e focado no ecossistema Java.
+Atualmente curso Engenharia de Software e estou me especializando no desenvolvimento Back-End, priorizando código limpo, organizado e escalável.
+
+🧩 Tecnologias que utilizo
+
+- Java 21 ☕
+
+- Spring Boot 🌱
+
+- PostgreSQL 🐘
+
+- Docker 🐳
+
+- HTML • CSS • JavaScript 🎨
+
+- APIs REST, autenticação JWT e boas práticas de arquitetura
+
+🎯 Meu foco atual
+
+Criar aplicações completas, da API ao frontend, utilizando boas práticas e tecnologias modernas. Busco evoluir continuamente e fortalecer meu portfólio com projetos reais.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+## 🚀 Tecnologias e Ferramentas
 
-<div align="center">
-
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-</div>
-
----
-
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  
-![Almir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=almirrenancaetano&show_icons=true&theme=github_dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=almirrenancaetano&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
 
 ---
 
