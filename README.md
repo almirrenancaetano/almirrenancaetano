@@ -31,7 +31,7 @@ Atualmente curso Engenharia de Software e estou me especializando no desenvolvim
 
 🎯 Meu foco atual
 
-Criar aplicações completas, da API ao frontend, utilizando boas práticas e tecnologias modernas. Busco evoluir continuamente e fortalecer meu portfólio com projetos reais.
+Criar aplicações completas, do backend ao frontend, utilizando boas práticas e tecnologias modernas. Busco evoluir continuamente e fortalecer meu portfólio com projetos reais.
 
 ---
 
